@@ -1,0 +1,10 @@
+{
+    "code": "0",
+    "message": "success",
+    "data": {
+        "lastLoginTime": 1533882667,
+        "id": "5",
+        "baseCurrency": "GBP",
+        "userName": "Jones"
+    }
+}
